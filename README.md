@@ -1,7 +1,7 @@
 
 # Documentacion del proyecto!
 
-Bbla bla bla
+## Para trabajar en desarrollo debemos hacerlo sobre el branch "develop"
 
 ## Instalacion
 
