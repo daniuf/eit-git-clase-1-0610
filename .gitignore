@@ -1,5 +1,6 @@
 ListadoTareas
 logs/*
+!logs/.gitkeep
 vendor/*
 composer.lock
 config.json
