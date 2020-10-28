@@ -1,2 +1,4 @@
 ListadoTareas
 logs/*
+vendor/*
+composer.lock
